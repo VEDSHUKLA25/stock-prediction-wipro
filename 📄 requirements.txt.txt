@@ -1,0 +1,22 @@
+📄 requirements.txt
+yfinance
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+
+📌 How to use:
+
+Create a new file in your project folder named:
+
+requirements.txt
+
+
+Copy–paste the above text into it.
+
+Upload this file to GitHub 
+
+✅ Now, anyone who downloads repo can set up the environment with:
+
+pip install -r requirements.txt
